@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Class Selection App</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="hintUsername">Enter Username</string>
+    <string name="hintPassword">Enter Password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="logoContentDescription">MCC Logo</string>
+    <string name=""></string>
+</resources>
