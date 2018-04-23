@@ -6,5 +6,40 @@
     <string name="hintPassword">Enter Password</string>
     <string name="loginButtonText">Login</string>
     <string name="logoContentDescription">MCC Logo</string>
-    <string name=""></string>
+    <string name="errMessageLogin">Invalid Login. Please retry.</string>
+    <string name="errMessagePassword">Invalid Password. Please retry.</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="dob">Date of Birth</string>
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sept</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string name="day">Day</string>
+    <string name="year">Year</string>
+    <string name="txtCert">Certificate</string>
+    <string name="txtTwoYr">Associates Degree</string>
+    <string name="txtMajor">Major</string>
+    <string name="txtNext">Next</string>
+    <string-array name="lstCert">
+        <item>Android Certificate</item>
+        <item>iOS Mobile Certificate</item>
+    </string-array>
+    <string-array name="lstMajor">
+        <item>Digital Media</item>
+        <item>Mobile App Development</item>
+        <item>Web Development</item>
+    </string-array>
+
 </resources>
